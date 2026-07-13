@@ -1,8 +1,6 @@
 # Reddit Opportunity Scanner
 
-Persoonlijke webapp die per project relevante Reddit-posts vindt om op te reageren
-(karma/marketing) en concurrent-pijnpunten bewaart als research. Zie `CLAUDE.md`
-voor de volledige scope en `DECISIONS.md` voor vastgelegde keuzes.
+Persoonlijke, read-only tool die relevante Reddit-discussies opzoekt en scoort op relevantie voor eigen gebruik.
 
 ## Eenmalige setup
 
